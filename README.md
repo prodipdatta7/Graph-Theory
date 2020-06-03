@@ -6,4 +6,4 @@ Implemented algorithms are :
 3. Strongly Connected Component (Tarjan, Kosaraju)
 4. Prufer Code
 5. Prufer Decode
-6. solution 2 interesting problem. 
+6. solution of 2 interesting problem. 
